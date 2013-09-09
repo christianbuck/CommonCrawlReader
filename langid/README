@@ -1,0 +1,4 @@
+This expects you to have langid.py installed. Easiest way:
+
+wget https://raw.github.com/saffsd/langid.py/master/langid/langid.py
+
